@@ -54,7 +54,6 @@ sudo snort -c /etc/snort/snort.conf -i eth0  # NIDS mode
 Project_Snort/
 ├── README.md
 ├── Siddartha_Bandi_Snort.pdf     # Full technical paper (PDF)
-└── Siddartha_Bandi_Snort.docx   # Full technical paper (Word)
 ```
 
 ---
